@@ -8,7 +8,7 @@ The primary purpose of this project is to transform raw survey data into actiona
 
 ## Technologies Used
 - **Power BI**: For data cleaning, transformation, and visualization.
-- **CSV**: The format of the raw survey dataset.
+- **Excel**: The format of the raw survey dataset.
 
 ## Problem Solved
 The project solves the problem of deriving insights from unstructured and raw survey data by cleaning and transforming it into a structured format, followed by creating interactive and insightful visualizations in Power BI.
