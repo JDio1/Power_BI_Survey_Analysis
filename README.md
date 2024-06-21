@@ -24,9 +24,9 @@ The project resulted in a user-friendly Power BI dashboard that provides clear, 
 
 ## Files and Directories
 - `PowerBI-Survey-Analysis/`: Directory containing all project files.
-  - `survey_data.csv`: The original survey dataset in CSV format.
+  - `survey_data.xlsx`: The original survey dataset in CSV format.
   - `survey_analysis.pbix`: The Power BI file with the cleaned data and dashboard.
-  - `dashboard_screenshot.png`: Screenshot(s) of the Power BI dashboard.
+  - `Dashboard`: Screenshot(s) of the Power BI dashboard.
   - `README.md`: Documentation for the project.
 
 
